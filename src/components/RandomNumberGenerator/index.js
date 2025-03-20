@@ -4,6 +4,12 @@ import './index.css'
 
 const places = [
   {
+    place: 'Time based Visit',
+  },
+  {
+    place: 'Time based Visit',
+  },
+  {
     place: 'Kotakommala Vinayaka Devalayam',
   },
   {
